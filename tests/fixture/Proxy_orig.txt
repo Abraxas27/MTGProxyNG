@@ -1,0 +1,9 @@
+1 Opt
+4 [AER] Fatal push
+1 oeaif
+3xrgcetgc
+
+
+# test
+# 1 Alive // Well
+# 2 City's Blessing // Elemental
